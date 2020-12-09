@@ -1,0 +1,36 @@
+<div class="container-fluid px-md-5">
+    <div class="row py-5 wow slideInUp">
+        <div class="col-12 text-center">
+            <h2 class="subhead headpoppins">how it works?</h2>
+        </div>
+    </div>
+    <div class="row pb-5 wow slideInUp" data-wow-delay="0.25s">
+        <div class="col-md-4 col-12 textmobilealign divAlign">
+            <div>
+                <img src="db.jpg" class="imgskill">
+            </div>
+            <div class="px-xl-5 px-2">
+                <p class="headimg headpoppins mb-md-2 mb-0">Marks</p>
+                <p class="subtitle colorgray">Have a doubt?</p>
+            </div>
+        </div>
+        <div class="col-md-4 col-12 textmobilealign divAlign">
+            <div>
+                <img src="type.png" class="imgskill">
+            </div>
+            <div class="px-xl-5 px-2">
+                <p class="headimg headpoppins mb-md-2 mb-0"></p>
+                <p class="subtitle colorgray">Type your question <br>OR <br> Upload an image</p>
+            </div>
+        </div>
+        <div class="col-md-4 col-12 textmobilealign divAlign">
+            <div>
+                <img src="sol.jpeg" class="imgskill">
+            </div>
+            <div class="px-xl-5 px-2">
+                <p class="headimg headpoppins mb-md-2 mb-0"></p>
+                <p class="subtitle colorgray">get your solution</p>
+            </div>
+        </div>
+    </div>
+    </div>
